@@ -31,15 +31,17 @@ Time spent: **15** hours spent in total
                            2)In the url add /readme.html
   - [ ] Affected source code:vmdistillery.vm/readme.html
     
-1. Application Denial of Service (DOS) (unpatched)
+3. Application Denial of Service (DOS) (unpatched)
   - [ ] Summary: This is a vulnerability that affects almost all versions of word press and is used by running a Python Script. The python script loads a lot of javascript that ends up overloading the website
     - Vulnerability types: DOS
     - Tested in version: 4.94 and below
     - Fixed in version: 4.95
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+  - [ ] GIF Walkthrough: https://gph.is/2wQ3ZZI
+  - [ ] Steps to recreate: 1) Make sure all vm's are up and running along with wpdistillery.vm
+                           2) Make open kali linux terminal and run doser.py script
+                           3) Look at wpdistiller.vm and attemp to refresh. The website cannot reload and will crash
+  - [ ] Affected source code: http://wpdistillery.vm
+  
 1. (Optional) Vulnerability Name or ID
   - [ ] Summary: 
     - Vulnerability types:
@@ -72,7 +74,7 @@ GIFs created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while doing the work
+Many of the challenges that I encountered involved the virtual machines themse
 
 ## License
 
