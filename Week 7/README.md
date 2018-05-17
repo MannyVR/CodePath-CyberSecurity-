@@ -42,28 +42,10 @@ Time spent: **15** hours spent in total
                            3) Look at wpdistiller.vm and attemp to refresh. The website cannot reload and will crash
   - [ ] Affected source code: http://wpdistillery.vm
   
-1. (Optional) Vulnerability Name or ID
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-1. (Optional) Vulnerability Name or ID
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php) 
 
 ## Assets
 
-List any additional assets, such as scripts or files
+dosser.py
 
 ## Resources
 
@@ -74,7 +56,7 @@ GIFs created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Many of the challenges that I encountered involved the virtual machines themse
+Many of the challenges that I encountered involved the virtual machines not functioning properly. Also vmdistillery.vm often would no longer work and I had to uninstall and reinstall many times. Alot of these exploits took a long time, however, this was a good thing because it allowed me to step to into the mind of a hacker. I understood these vulnerabilites a lot more after this challenge.
 
 ## License
 
