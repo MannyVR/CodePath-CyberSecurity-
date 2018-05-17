@@ -31,11 +31,11 @@ Time spent: **15** hours spent in total
                            2)In the url add /readme.html
   - [ ] Affected source code:vmdistillery.vm/readme.html
     
-1. (Required) Vulnerability Name or ID
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
+1. Application Denial of Service (DOS) (unpatched)
+  - [ ] Summary: This is a vulnerability that affects almost all versions of word press and is used by running a Python Script. The python script loads a lot of javascript that ends up overloading the website
+    - Vulnerability types: DOS
+    - Tested in version: 4.94 and below
+    - Fixed in version: 4.95
   - [ ] GIF Walkthrough: 
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
