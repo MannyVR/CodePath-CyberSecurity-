@@ -27,7 +27,8 @@ Time spent: **15** hours spent in total
     - Vulnerability types: This can be found in various versions of Wordpress
     - Tested in version: 4.2
     - Fixed in version: Can be fixed in any version. readme.html must be deleted whenever a user updates wordpress.
-  - [X] GIF Walkthrough: https://gph.is/2rTQcvF 
+  - [X] GIF Walkthrough: ![fingerprint](https://user-images.githubusercontent.com/36680097/40211596-5ade3e6c-5a00-11e8-8e1d-c279eb3f715e.gif)
+
   - [X] Steps to recreate: 1)visit wpdistillery.vm
                            2)In the url add /readme.html
   - [X] Affected source code:vmdistillery.vm/readme.html
@@ -37,7 +38,8 @@ Time spent: **15** hours spent in total
     - Vulnerability types: DOS
     - Tested in version: 4.94 and below
     - Fixed in version: 4.95
-  - [X] GIF Walkthrough: https://gph.is/2wQ3ZZI
+  - [X] GIF Walkthrough: 
+
   - [X] Steps to recreate: 1) Make sure all vm's are up and running along with wpdistillery.vm
                            2) Make open kali linux terminal and run doser.py script
                            3) Look at wpdistiller.vm and attemp to refresh. The website cannot reload and will crash
