@@ -11,7 +11,8 @@ Time spent: **15** hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.2, 4.1.2, 4.1.1, 3.9.3 
     - Fixed in version: 4.2.1
-  - [X] GIF Walkthrough: https://gph.is/2IgKfUu 
+  - [X] GIF Walkthrough: ![xss vulnerability1](https://user-images.githubusercontent.com/36680097/40211520-fece42de-59ff-11e8-82b6-983d41808b16.gif)
+
   - [X] Steps to recreate: Reading the above vulnerabilty, this is how I went about it,
         1) I looked up the vulnerabilty in this website https://klikki.fi/adv/wordpress2.html
         2) I copied the code that shows the vulnerabilty for the XSS attack. 
