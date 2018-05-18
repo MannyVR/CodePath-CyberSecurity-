@@ -38,7 +38,8 @@ Time spent: **15** hours spent in total
     - Vulnerability types: DOS
     - Tested in version: 4.94 and below
     - Fixed in version: 4.95
-  - [X] GIF Walkthrough: 
+  - [X] GIF Walkthrough: ![dos](https://user-images.githubusercontent.com/36680097/40211676-c83193c4-5a00-11e8-933d-db24a03fa894.gif)
+
 
   - [X] Steps to recreate: 1) Make sure all vm's are up and running along with wpdistillery.vm
                            2) Make open kali linux terminal and run doser.py script
