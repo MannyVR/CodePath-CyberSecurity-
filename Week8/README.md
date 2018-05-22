@@ -30,7 +30,7 @@ Vulnerability #2: __________________
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1: IDOR , id=12 exposes fired employee.
 
 Vulnerability #2: __________________
 
