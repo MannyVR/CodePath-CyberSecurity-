@@ -31,7 +31,8 @@ Vulnerability #2: __________________
 
 ## Red
 
-Vulnerability #1: IDOR , id=12 exposes fired employee.
+Vulnerability #1: IDOR , id=11 exposes fired employee.
+![idor](https://user-images.githubusercontent.com/36680097/40453084-e704f330-5e98-11e8-89d2-c74c087ee2f1.gif)
 
 Vulnerability #2: __________________
 
