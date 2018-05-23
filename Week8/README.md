@@ -23,7 +23,7 @@ Vulnerability #2: __________________
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: Username Enumeration, admin is not in bold, jmonroe99 is bold when noted as "Login not successful"
 
 Vulnerability #2: __________________
 
