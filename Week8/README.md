@@ -26,7 +26,8 @@ Vulnerability #2: __________________
 Vulnerability #1: Username Enumeration, admin is not in bold, jmonroe99 is bold when noted as "Login not successful"
 ![username enumeration](https://user-images.githubusercontent.com/36680097/40452876-35d6c4f8-5e98-11e8-9d54-85c7babe2efd.gif)
 
-Vulnerability #2: __________________
+Vulnerability #2: XSS Vulnerability in the feedback section.
+![xss green](https://user-images.githubusercontent.com/36680097/40516010-f767775e-5f63-11e8-822f-d3ec088ffce5.gif)
 
 
 ## Red
