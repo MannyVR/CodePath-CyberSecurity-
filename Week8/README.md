@@ -20,6 +20,7 @@ Vulnerability #1: SQL INJECTION: Sleep SQL statment causes delay on the website.
 ![sql injection](https://user-images.githubusercontent.com/36680097/40519495-a20e819c-5f74-11e8-9374-c2dabee2d433.gif)
 
 Vulnerability #2: SESSION HIGHJACKING
+![highjack](https://user-images.githubusercontent.com/36680097/40520417-c353ffa2-5f7a-11e8-9941-c5e295b790d3.gif)
 
 
 
