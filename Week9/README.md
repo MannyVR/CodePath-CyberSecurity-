@@ -1,2 +1,3 @@
 **Milestone 0: To the Cloud**
-<blockquote class="imgur-embed-pub" lang="en" data-id="02bwDLC"><a href="//imgur.com/02bwDLC">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![milestone0](https://user-images.githubusercontent.com/36680097/40676508-c077835e-632f-11e8-8e36-5e9b03ee30af.png)
+
