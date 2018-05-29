@@ -2,5 +2,5 @@
 ![milestone0](https://user-images.githubusercontent.com/36680097/40676508-c077835e-632f-11e8-8e36-5e9b03ee30af.png)
 
 **Milestone 1: Create MHN Admin VM**
-
+![milestone1](https://user-images.githubusercontent.com/36680097/40676657-3ce19ed4-6330-11e8-9d1f-c86745bcac87.gif)
 
