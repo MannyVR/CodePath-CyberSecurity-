@@ -25,11 +25,20 @@
 
    **traceroute**
      How many of the hops are the same? What accounts for this?
+     They both are the same.
      Which has more hops? What accounts for the difference?
+     They are the same.
+     ![image](https://user-images.githubusercontent.com/36680097/40813462-d917d9f6-64ef-11e8-9dcf-f691ddb1ecef.png)
      
-     
-   
    **telnet**
+      What's one thing that makes telnet insecure?
+      DOES NTO ENCYPT DATA
+      
+      
+      Can you telnet to codepath.com? What port is open and why?
+
+    
+    
 
 
 **Week 9 Honey Pot Analysis: Assigment**
