@@ -1,40 +1,11 @@
 **Milestone 0: Networking Toolbox**
+    Run ifconfig/ipconfig/ip and determine the name/id of your primary network interface
+      eth1
+    What is your primary interface's IP address? Is it different from your public IP? Why or why not?
+      10.0.3.15 This is different from my public IP address. The reason is because this is a private IP address that is unique to my compuer
+    What is the MAC address of your primary interface?
+    08:00:27:a0:39:09
+    Identify and understand your loopback interface
 
-**Milestone 1: Security-Tool Net tools**
-NetCat
-# Listen in server mode
-$ nc -l 2389
-
-# Connect in client mode
-$ nc localhost 2389
-
-$ nc -l 2389 > received.txt
-$ echo "CodePath Rocks" > message.txt
-$ cat message.txt | nc localhost 2389
-
-$ nc dict.org 2628
-# 220 pan.alephnull.com dictd 1.12.1/rf on Linux 4.4.0-1-amd64 <auth.mime> <40503875.15857.1490380824@pan.alephnull.com>
-$ DEFINE wn peripatetic
-
-$ nc -z 192.168.0.1 80-90
-# Connection to 192.168.0.1 port 80 [tcp/http] succeeded!
-
-**Nmap**
-# Scan a single server
-$ nmap -v scanme.nmap.org
-
-# -sS is stealth scan
-# -O determine operating system
-# /24 scans a class C size network (256 IPs)
-$ sudo nmap -sS -O scanme.nmap.org/24
-
-# host enumeration on IPs 0-255.1-127
-# -V is version detection
-$ nmap -sV -p 22,53,110,143,4564 198.116.0-255.1-127
-
-# -R is random, picks 100,000 random hosts
-# -Pn disables host enumeration
-# -p 80 checks port 80 (web servers)
-$ nmap -v -iR 100000 -Pn -p 80
 
 
