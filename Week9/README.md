@@ -16,6 +16,8 @@
       172.217.5.78
     Why would the IP address of google.com change between runs or from different locations?
       Google has different servers in different parts of the world.
+      ![image](https://user-images.githubusercontent.com/36680097/40813258-b5596a26-64ee-11e8-90b1-c6148d5560f1.png)
+
    **nslookup**
    Does the domain returned from nslookup match? If not, why not?
       yes
