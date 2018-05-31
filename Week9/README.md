@@ -4,3 +4,7 @@
 **Milestone 1: Create MHN Admin VM**
 ![milestone1](https://user-images.githubusercontent.com/36680097/40676657-3ce19ed4-6330-11e8-9d1f-c86745bcac87.gif)
 
+**Milestone 2: Install the MHN Admin Application **
+![milestone2](https://user-images.githubusercontent.com/36680097/40805241-7cb3ff22-64d2-11e8-86ea-2cb4e45f6297.png) 
+
+**Milestone 3: Create MHN Honeypot VM**
