@@ -1,20 +1,24 @@
 **Week 9: LAB**
+**Milestone 0: Networking Toolbox**
+    Run ifconfig/ipconfig/ip and determine the name/id of your primary network interface
+      eth1
+    What is your primary interface's IP address? Is it different from your public IP? Why or why not?
+      10.0.3.15 This is different from my public IP address. The reason is because this is a private IP address that is unique to my compuer
+    What is the MAC address of your primary interface?
+    08:00:27:a0:39:09
+    Identify and understand your loopback interface
+![image](https://user-images.githubusercontent.com/36680097/40812285-e20f9874-64e9-11e8-9140-056bc0d1b168.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  **Ping**
+    What is the IP address of codepath.com?
+      198.58.125.217
+    What is the IP address of google.com?
+      172.217.5.78
+    Why would the IP address of google.com change between runs or from different locations?
+      Google has different servers in different parts of the world.
+   **nslookup**
+   Does the domain returned from nslookup match? If not, why not?
+      yes
 
 
 
