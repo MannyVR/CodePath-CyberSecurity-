@@ -9,3 +9,6 @@
 
 **Milestone 3: Create MHN Honeypot VM**
 ![milestone3](https://user-images.githubusercontent.com/36680097/40805183-50dbdf32-64d2-11e8-9484-1c86a9c9c7b1.png)
+
+**MileStone 4: Install the HoneyPot application**
+![milestone4](https://user-images.githubusercontent.com/36680097/40805521-5ee65002-64d3-11e8-8796-f7c536cd14dd.png) 
