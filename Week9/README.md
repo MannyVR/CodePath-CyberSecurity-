@@ -19,9 +19,17 @@
       ![image](https://user-images.githubusercontent.com/36680097/40813258-b5596a26-64ee-11e8-90b1-c6148d5560f1.png)
 
    **nslookup**
-   Does the domain returned from nslookup match? If not, why not?
+     Does the domain returned from nslookup match? If not, why not?
       yes
+![image](https://user-images.githubusercontent.com/36680097/40813312-fab5be12-64ee-11e8-98f3-8486ef1e9afe.png)
 
+   **traceroute**
+     How many of the hops are the same? What accounts for this?
+     Which has more hops? What accounts for the difference?
+     
+     
+   
+   **telnet**
 
 
 **Week 9 Honey Pot Analysis: Assigment**
