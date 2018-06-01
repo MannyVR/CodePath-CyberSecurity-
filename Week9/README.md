@@ -33,11 +33,27 @@
    **telnet**
       What's one thing that makes telnet insecure?
       DOES NTO ENCYPT DATA
-      
-      
       Can you telnet to codepath.com? What port is open and why?
-
-    
+      ![image](https://user-images.githubusercontent.com/36680097/40813720-307ca69e-64f1-11e8-8c4e-0077e19464f0.png)
+   
+   **curl and wget**
+    Which would you be more likely to use for interacting with a RESTful API from the command line?
+        cURL
+    Which support recursive downloading?
+        wget
+    Which are you more likely to find pre-installed on a Linux OS?
+        wget
+    What is the syntax for each for downloading a file to the current directory?
+        wget [option]  
+        curl [options]
+ 
+   **ssh and scp**
+    Why is key authentication preferred to passwords?
+        SSH keys are far more complex and secure than passwords
+    What is the syntax for copying a file from a local folder to a remote one?
+        scp [[user@]host1:]file1 ... [[user@]host2:]file2
+        more info can be found here. https://www.garron.me/en/articles/scp.html#syntax
+**Milestone 1: Security-Flavored Net Tools
     
 
 
