@@ -1,5 +1,7 @@
 **Week 9: LAB**
+
 **Milestone 0: Networking Toolbox**
+
     Run ifconfig/ipconfig/ip and determine the name/id of your primary network interface
       eth1
     What is your primary interface's IP address? Is it different from your public IP? Why or why not?
@@ -10,6 +12,7 @@
 ![image](https://user-images.githubusercontent.com/36680097/40812285-e20f9874-64e9-11e8-9140-056bc0d1b168.png)
 
   **Ping**
+  
     What is the IP address of codepath.com?
       198.58.125.217
     What is the IP address of google.com?
@@ -19,11 +22,13 @@
       ![image](https://user-images.githubusercontent.com/36680097/40813258-b5596a26-64ee-11e8-90b1-c6148d5560f1.png)
 
    **nslookup**
+   
      Does the domain returned from nslookup match? If not, why not?
       yes
 ![image](https://user-images.githubusercontent.com/36680097/40813312-fab5be12-64ee-11e8-98f3-8486ef1e9afe.png)
 
    **traceroute**
+   
      How many of the hops are the same? What accounts for this?
      They both are the same.
      Which has more hops? What accounts for the difference?
@@ -31,12 +36,14 @@
      ![image](https://user-images.githubusercontent.com/36680097/40813462-d917d9f6-64ef-11e8-9dcf-f691ddb1ecef.png)
      
    **telnet**
+   
       What's one thing that makes telnet insecure?
       DOES NTO ENCYPT DATA
       Can you telnet to codepath.com? What port is open and why?
       ![image](https://user-images.githubusercontent.com/36680097/40813720-307ca69e-64f1-11e8-8c4e-0077e19464f0.png)
    
    **curl and wget**
+   
     Which would you be more likely to use for interacting with a RESTful API from the command line?
         cURL
     Which support recursive downloading?
@@ -48,6 +55,7 @@
         curl [options]
  
    **ssh and scp**
+   
     Why is key authentication preferred to passwords?
         SSH keys are far more complex and secure than passwords
     What is the syntax for copying a file from a local folder to a remote one?
@@ -59,13 +67,26 @@
     **NMAP**
         Challenge1: Run nmap against you localhost IP to see all open ports
             ![image](https://user-images.githubusercontent.com/36680097/40815216-b1321cc6-64f9-11e8-8a5b-fd30d238d69c.png)
- **Milestone 2: Grabbing Packets with tcpdump**      
+ **Milestone 2: Grabbing Packets with tcpdump**  
+ 
+   **Challenge 1:**
     How many requests to load the main codepath.com page?
         12
     What type of resource accounts for most of the requests?
         seq, win, ack flags
     Now try the same exercise with https://security.codepath.com. What differences do you see in the output? What accounts for           those differences?
     68. The differences are the amount of packets. Again there is a lot of seq and ack.
+    ![image](https://user-images.githubusercontent.com/36680097/40816057-953e5bbe-64ff-11e8-8ed0-b7dd3434874b.png)
+    
+   **Challenge2:** 
+    Listen for DNS queries on port 53: sudo tcpdump -vvv -s 0 -l -n port 53
+    Think of a domain name that probably exists (common word or phrase + .com) but that you've never visited before (suggestion:                    zombo.com) and open it in a browser
+    Look at the tcpdump output for the UDP packets trying to resolve the domain. The destination IP should be the DNS
+        I recieved no result in this challenge.
+        ![image](https://user-images.githubusercontent.com/36680097/40816208-6d2e0f9c-6500-11e8-9e7c-214918a6b853.png)
+        
+ **MileStone 3: Hello, Wireshark ** 
+
    
         
     
