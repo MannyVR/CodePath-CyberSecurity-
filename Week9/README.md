@@ -85,7 +85,11 @@
         I recieved no result in this challenge.
         ![image](https://user-images.githubusercontent.com/36680097/40816208-6d2e0f9c-6500-11e8-9e7c-214918a6b853.png)
         
- **MileStone 3: Hello, Wireshark ** 
+**MileStone 3: Hello, Wireshark ** 
+
+   Challenge: Most use ICMPv6 protocol and go to the same destination, a router.
+   
+   ![image](https://user-images.githubusercontent.com/36680097/40816609-b8653f2e-6502-11e8-941e-1915ff996946.png)
 
    
         
