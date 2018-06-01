@@ -53,7 +53,21 @@
     What is the syntax for copying a file from a local folder to a remote one?
         scp [[user@]host1:]file1 ... [[user@]host2:]file2
         more info can be found here. https://www.garron.me/en/articles/scp.html#syntax
-**Milestone 1: Security-Flavored Net Tools
+**Milestone 1: Security-Flavored Net Tools**
+    **NetCat**
+        ![image](https://user-images.githubusercontent.com/36680097/40815072-cbe5465c-64f8-11e8-9c65-d7f213aee40b.png)
+    **NMAP**
+        Challenge1: Run nmap against you localhost IP to see all open ports
+            ![image](https://user-images.githubusercontent.com/36680097/40815216-b1321cc6-64f9-11e8-8a5b-fd30d238d69c.png)
+ **Milestone 2: Grabbing Packets with tcpdump**      
+    How many requests to load the main codepath.com page?
+        12
+    What type of resource accounts for most of the requests?
+        seq, win, ack flags
+    Now try the same exercise with https://security.codepath.com. What differences do you see in the output? What accounts for           those differences?
+    68. The differences are the amount of packets. Again there is a lot of seq and ack.
+   
+        
     
 
 
