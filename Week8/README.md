@@ -65,4 +65,41 @@ I would disguise the link via html and send it to them.
 Compare session hijacking and session fixation. Which attack do you think is easier for an attacker to execute? Why? One of them is much easier to defend against than the other. Which one and why?
 I think sessioin hijacking would be much easier. This is because once an authentication cookie is taken, the attacker could use it with ease if no proper security measures are met.
 
+# Project 8 - Pentesting Live Targets
+
+# Milestone0: Preparing the battlefield
+
+![image](https://user-images.githubusercontent.com/36680097/40871825-131f35f0-65f8-11e8-90a3-db60aed58fc3.png)
+
+# Milestone1: Opening an Attack Surface
+
+![image](https://user-images.githubusercontent.com/36680097/40871947-12908466-65fa-11e8-8644-50b0a2db4044.png)
+
+# Milestone2: Recon
+
+![image](https://user-images.githubusercontent.com/36680097/40871970-c3fd0dbe-65fa-11e8-9690-296aaf9a32ca.png)
+
+# Milestone3: Hello Metasploit
+
+![image](https://user-images.githubusercontent.com/36680097/40871995-2e47b0e8-65fb-11e8-902d-903680c57ce8.png)
+
+# Milestone4: Pwnage
+
+![image](https://user-images.githubusercontent.com/36680097/40872054-5b68a900-65fc-11e8-89c5-cf48c4f624ba.png)
+
+# Milestone5: Tag it
+
+![image](https://user-images.githubusercontent.com/36680097/40872092-540247ba-65fd-11e8-961b-3adc8a168af6.png)
+
+# Milestone6: Going Deeper
+This section just goes in debt with the vulnerabiltiy
+
+# Milestone7: Hello, SqlMap!
+
+![image](https://user-images.githubusercontent.com/36680097/40872226-9369540a-65ff-11e8-8aab-a9606f9a36c4.png)
+
+
+
+
+
 
