@@ -90,14 +90,34 @@
    Challenge: Most use ICMPv6 protocol and go to the same destination, a router.
    
    ![image](https://user-images.githubusercontent.com/36680097/40816609-b8653f2e-6502-11e8-941e-1915ff996946.png)
-
    
-        
+**Milestone 4 and Milestone 5 **
+![image](https://user-images.githubusercontent.com/36680097/40871220-8ac1c4e4-65ec-11e8-8156-fd3c540bf264.png)
+
+
+**Milestone 6 Wifi hacking- Crack a handshake**
+![image](https://user-images.githubusercontent.com/36680097/40871308-25305dc8-65ee-11e8-88a3-e56300369f72.png)
+
+**Milestone 7 Grab a handshake**
+Use Wireshark to answer the following challenge questions:
+
+    What is the protocol of the handshake packets?
+    802.11
+    Where is the SSID?
+    Netgear router
+    Where specifically is the hash?
+    What is a nonce?
+    nonce is an arbitrary number that can be used just once
+    https://en.wikipedia.org/wiki/Cryptographic_nonce
+    
+![image](https://user-images.githubusercontent.com/36680097/40871446-b94dd0b0-65f0-11e8-9342-bb314adf57be.png)
     
 
 
 **Week 9 Honey Pot Analysis: Assigment**
+
 **Which Honeypot(s) you deploy?**
+
 Dionaea
 
 **Any issues you encounterd**
