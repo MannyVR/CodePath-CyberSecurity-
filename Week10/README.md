@@ -1,5 +1,52 @@
 # Week 10 Lab and Assignment
 
+# Week 10 Lab
+# Milestone 0: Kali Gone Wild
+
+I was able to save set up and run the command.
+
+# Milestone 1: Hello, SET
+
+This was very interesting, I was able to follow steps, however, I kept getting an SMTP error.
+![image](https://user-images.githubusercontent.com/36680097/41015768-9c78a90c-6900-11e8-8904-3195de49874a.png)
+
+I learned that I had to log in to a separate email in order to make it work
+
+![image](https://user-images.githubusercontent.com/36680097/41016331-8c8011f4-6903-11e8-9574-6331a44b93f6.png)
+
+# Milestone 2: Try a real payload.
+In this Milestone, we learned about sending payloads. This a very spooky because I learned that via email you can send a payload hidden in a document such as a PDF. Once the file is opened, a reverse connection can be established allowing the attacker to view contents of the computer. In my case, it, unfortunately, kept waiting for a payload to generate.
+
+![image](https://user-images.githubusercontent.com/36680097/41051439-fbe8e7f2-696a-11e8-9720-2deafeacf9d3.png)
+
+# Milestone3: Fakebook
+This Milestone demonstrated fake pages, how they can be generated in order
+
+![image](https://user-images.githubusercontent.com/36680097/41065787-a2855d7e-6994-11e8-8ef3-6828f1543d22.png)
+
+# Milestone 5:  Cleanup
+
+Followed instructions and this changes network set up to  NAT . NAT is important because it is not recommended to have a bridge connection. A bridge connection links the network between your VM and your host, which can be dangerous if you don't know what you are doing.
+
+![image](https://user-images.githubusercontent.com/36680097/41066754-e359df52-6997-11e8-8b80-7a19b6a1023a.png)
+
+# Milestone 6: SE in Situ
+
+Challenge questions:
+# What vulnerabilities were beyond the control of the user?
+SE, this is when the woman called with the baby sound crying in the background. This was beyond the control of the user because at this point he has no say nor idea of whats going on. The best he can do is not give his email or phone number out.
+# What if anything could have been done by the user to mitigate the severity of the attack?
+Training employees will help with this. Also trying not to give personal information to strangers.
+
+
+# What could the user do to mitigate this, making a successful login impossible for the attacker even with the credentials? (Hint: FB offers this as an option; not all sites do)
+2-factor authentication! This can mitigate hackers from accessing your account!
+
+# Why might the username/password still be of value to the attacker even if she can't use them to log in to Facebook? (Hint: think about how users come up with passwords)
+If a user uses a particular username or password, chances are that they use it on other sites. Even though they won't be able to login to facebook they could try other accounts. Again, more than likely they would use these credentials in other sites. Its good security practice to use different credentials on different applications and websites, but the majority of people do not.
+
+# Week 10 Assignment
+
 # Challenge1: Hello Shodan
 ![image](https://user-images.githubusercontent.com/36680097/40997445-927b6c10-68b9-11e8-9c9b-c8c2c06753d3.png)
 
